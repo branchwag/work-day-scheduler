@@ -7,7 +7,7 @@ https://github.com/coding-boot-camp/crispy-octo-meme
 
 ## Installation
 
-No installation required! This is simply a webpage! 
+No installation required! This is simply a webpage! Access the page here: https://branchwag.github.io/work-day-scheduler/
 
 ## Usage
 
